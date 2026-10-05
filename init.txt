@@ -1,7 +1,0 @@
-1- py -3.10 -m venv venv
-
-2- .\venv\Scripts\activate
-
-3- pip install opencv-python mediapipe numpy scikit-learn
-
-4- python ialibras.py

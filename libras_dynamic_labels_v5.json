@@ -1,13 +1,18 @@
 [
+  "AGORA",
   "BOA_NOITE",
   "BOA_TARDE",
   "BOM_DIA",
   "DESCULPA",
   "DE_NADA",
   "DOMINGO",
+  "E_ACENTO_AGUDO",
+  "FAZER",
   "HOJE",
+  "LIBRAS",
   "MEU_NOME_É",
   "NAO",
+  "NOS",
   "OBRIGADO",
   "OI",
   "POR_FAVOR",
@@ -19,5 +24,6 @@
   "SEXTA_FEIRA",
   "SIM",
   "TERCA_FEIRA",
+  "TRADUCAO",
   "TUDO_BEM"
 ]
